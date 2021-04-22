@@ -7,6 +7,15 @@
     margin-top: 3rem;
     margin-bottom: 1.5rem;
   }
+
+  &::-webkit-scrollbar{ 
+    width: 10px; 
+  }
+  
+  &::-webkit-scrollbar-thumb{
+    background: #e3e0d6;
+    border-radius: 5px;
+  }
 }
 
 .lastestEpisodes{
