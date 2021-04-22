@@ -15,7 +15,7 @@ export function Player(){
     episodeList, 
     currentEpisodeIndex, 
     isPlaying, 
-    togglePlay
+    togglePlay,
     setPlayingState
   } = useContext(PlayerContext);
 
